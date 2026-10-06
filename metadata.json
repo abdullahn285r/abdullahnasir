@@ -1,0 +1,6 @@
+{
+  "name": "A.N Marketing Agency",
+  "description": "A.N Marketing Agency helps businesses worldwide generate leads, increase sales and build stronger brands through complete digital marketing solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
